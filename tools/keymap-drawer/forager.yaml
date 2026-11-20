@@ -3,31 +3,31 @@ layers:
   BASE:
   - Q
   - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
+  - F
   - P
+  - B
+  - J
+  - L
+  - U
+  - Y
+  - ;
   - {t: A, h: '$$phosphor:regular/control$$'}
-  - {t: S, h: '$$phosphor:regular/option$$'}
-  - {t: D, h: '$$phosphor:regular/command$$'}
-  - {t: F, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: R, h: '$$phosphor:regular/option$$'}
+  - {t: S, h: Cmd/Ctrl}
+  - {t: T, h: '$$phosphor:regular/arrow-fat-up$$'}
   - G
-  - H
-  - {t: J, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - {t: K, h: '$$phosphor:regular/command$$'}
-  - {t: L, h: '$$phosphor:regular/option$$'}
-  - {t: ;, h: '$$phosphor:regular/control$$'}
+  - M
+  - {t: E, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: E, h: Cmd/Ctrl}
+  - {t: I, h: '$$phosphor:regular/option$$'}
+  - {t: O, h: Ctrl/Cmd}
   - {t: Z, h: '$$mdi:flash$$'}
   - X
   - C
+  - D
   - V
-  - B
-  - N
-  - M
+  - K
+  - H
   - ','
   - .
   - {t: /, h: '$$mdi:flash$$'}
@@ -91,9 +91,9 @@ layers:
   - {t: ↑, h: '$$phosphor:regular/command$$'}
   - {t: →, h: '$$phosphor:regular/option$$'}
   - {t: Del Line, h: '$$phosphor:regular/control$$'}
-  - Back
-  - Prev Tab
-  - Homerow
+  - Alt + [
+  - Alt + '
+  - Alt + ;
   - PgUp
   - Home
   - End

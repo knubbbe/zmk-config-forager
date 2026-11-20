@@ -2,3 +2,5 @@
 
 # Local firmware build artifacts
 /build/
+
+.zmk/
