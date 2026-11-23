@@ -17,7 +17,7 @@ layers:
   - {t: T, h: '$$phosphor:regular/arrow-fat-up$$'}
   - G
   - M
-  - {t: E, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: N, h: '$$phosphor:regular/arrow-fat-up$$'}
   - {t: E, h: Cmd/Ctrl}
   - {t: I, h: '$$phosphor:regular/option$$'}
   - {t: O, h: Ctrl/Cmd}
@@ -34,7 +34,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: SYM}
   - {t: ↹, h: '$$phosphor:regular/control$$'}
   - {t: ⏎, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - {t: Bspc, h: NAV}
+  - {t: Bspc, h: NAV, s: Del Word}
   SYM:
   - '!'
   - '@'
